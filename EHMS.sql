@@ -1,4 +1,4 @@
-/********************----E-Health-CareManagement-System-----***************/
+users/********************----E-Health-CareManagement-System-----***************/
 #drop database HealthcareMangaementSystem;
 create database HealthcareMangaementSystem;#Creating a Database
 use HealthcareMangaementSystem;
